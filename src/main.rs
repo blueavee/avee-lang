@@ -1,3 +1,6 @@
+mod lexer;
+mod token;
+
 fn main() {
-    print!("interpreter")
+    println!("Hello, world!");
 }
